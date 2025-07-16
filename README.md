@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Data Science Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Data%20Scientist%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn)
+![Aspiring Data Scientist Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Aspiring%20Data%20Scientist&fontSize=35&fontColor=ffffff&animation=fadeIn)
 
 </div>
 
